@@ -8,7 +8,7 @@ Documentation
 The default currency import service "webservicex" is down some time and when its available then it doesn't work for all available currencies in Magento. 
 
 This extension will provide below additional currency exchange rate import services : 
-Yahoo Finance
+* Yahoo Finance
 
 Requirements
 ------------
